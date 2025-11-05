@@ -105,7 +105,7 @@ The Ops Orchestrator Agent searches for best practices and provides infrastructu
 
 **[Complete Setup Guide →](./multi-agents/ops_orchestrator_agent/README.md)**
 
-![img](multi-agents/img/ops_console.png)
+![img](A2A-Multi-Agents-AgentCore-main/multi-agents/img/ops_console.png)
 
 ### 3. Host Orchestrator Agent
 
