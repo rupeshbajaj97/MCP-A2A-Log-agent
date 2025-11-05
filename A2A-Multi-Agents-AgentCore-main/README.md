@@ -90,7 +90,7 @@ The Monitoring Agent provides comprehensive AWS infrastructure monitoring capabi
 
 **[Complete Setup Guide →](./multi-agents/monitoring_agent/README.md)**
 
-![img](/multi-agents/img/monitoring_agent.png)
+![img](multi-agents/img/monitoring_agent.png)
 
 ### 2. Ops Orchestrator Agent
 
